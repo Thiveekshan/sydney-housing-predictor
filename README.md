@@ -16,7 +16,7 @@ for interactive price prediction.
 
 | File | Description |
 |---|---|
-| `app.py` | Streamlit web application — loads the trained model and predicts sale price from user input |
+| `app.py` | Streamlit web application - loads the trained model and predicts sale price from user input |
 | `requirements.txt` | Python dependencies required to run the app |
 | `.streamlit/config.toml` | Streamlit theme configuration (colours, fonts) |
 | `sydney_housing_model.pkl` | Trained Decision Tree Regressor model (saved with joblib) |
